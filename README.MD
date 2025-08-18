@@ -1,4 +1,4 @@
-# 🌐 Site Advocada Previdenciária | Dra. Jéssica Maximo
+# 🌐 Site Advogada Previdenciária | Dra. Jéssica Maximo
 
 Este projeto é um site institucional desenvolvido para apresentar a atuação da **Dra. Jéssica Maximo**, advogada especialista em **Direito Previdenciário**.  
 O objetivo é transmitir profissionalismo, confiança e facilitar o contato de clientes em potencial.
@@ -81,3 +81,4 @@ O objetivo é transmitir profissionalismo, confiança e facilitar o contato de c
 - **JavaScript Vanilla** (sem frameworks).
 - **Font Awesome** (ícones).
 - **Google Fonts** (tipografia).#
+
