@@ -4,7 +4,13 @@ Este projeto é um site institucional desenvolvido para apresentar a atuação d
 O objetivo é transmitir profissionalismo, confiança e facilitar o contato de clientes em potencial.
 
 ---
+# 🌐 Link de vizualição 
 
+https://jeniffer-mxm.github.io/Adv-Dra.JessicaMaximo/ 
+
+Vizualização
+https://www.webmobilefirst.com/en/screencasts/qpwcp2op5h_s9f/
+---
 ## 📂 Estrutura do Projeto
 
 - `index.html` → Estrutura principal do site (HTML semântico dividido em seções).
@@ -81,4 +87,5 @@ O objetivo é transmitir profissionalismo, confiança e facilitar o contato de c
 - **JavaScript Vanilla** (sem frameworks).
 - **Font Awesome** (ícones).
 - **Google Fonts** (tipografia).#
+
 
